@@ -1,0 +1,11 @@
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\SGArchiveDataLoad.exe.config
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\obj\Debug\SGArchiveDataLoad.csprojResolveAssemblyReference.cache
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\obj\Debug\Interop.MSUtil.dll
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\obj\Debug\SGArchiveDataLoad.csproj.ResolveComReference.cache
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\SGArchiveDataLoad.exe
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\SGArchiveDataLoad.pdb
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\Newtonsoft.Json.dll
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\Newtonsoft.Json.xml
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\bin\Debug\Interop.MSUtil.dll
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\obj\Debug\SGArchiveDataLoad.exe
+c:\users\jthomas\documents\visual studio 2012\Projects\SGArchiveDataLoad\SGArchiveDataLoad\obj\Debug\SGArchiveDataLoad.pdb
